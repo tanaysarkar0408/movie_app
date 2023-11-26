@@ -1,16 +1,6 @@
-# movie_app
+# MOVIESSS
+![](https://img.shields.io/static/v1?style=for-the-badge&label=POWERED%20BY&message=FLUTTER&color=02569B&logo=FLUTTER)
+<br>
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This app shows latest, top rated and upcoming movies.<br>
+You can also search any movie and get an overview.
