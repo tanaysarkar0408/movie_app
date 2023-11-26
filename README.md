@@ -4,3 +4,5 @@
 
 This app shows latest, top rated and upcoming movies.<br>
 You can also search any movie and get an overview.
+
+[Download Now](https://github.com/tanaysarkar0408/movie_app/releases)
